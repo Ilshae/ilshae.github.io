@@ -1,4 +1,4 @@
-import{u as a,d as o,j as e,r as c,C as f}from"./index-DTpY-oc9.js";import{n as i,m as s,d as r,L as p}from"./common-C15uLBHk.js";const x=({setIsOpen:t})=>e.jsxs(m,{to:s.home,onClick:()=>t(!1),...r,children:["Ingrid",e.jsx(g,{children:"Pruszyńska"})]}),m=a(p)`
+import{u as a,d as o,j as e,r as c,C as f}from"./index-DM-u9lcs.js";import{n as i,m as s,d as r,L as p}from"./common-CzQanbPI.js";const x=({setIsOpen:t})=>e.jsxs(m,{to:s.home,onClick:()=>t(!1),...r,children:["Ingrid",e.jsx(g,{children:"Pruszyńska"})]}),m=a(p)`
   transition: all 0.3s;
   height: ${i.desktopL};
   font-weight: 700;
