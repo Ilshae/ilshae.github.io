@@ -1,4 +1,4 @@
-import{j as i,u as a,d as e,h as o}from"./index-D4D3xXDY.js";import{m as n,E as p}from"./common-BpWhoNdO.js";const c=()=>i.jsxs(s,{name:n.home,children:[i.jsxs(m,{children:[i.jsxs("h1",{children:["I learn ",i.jsx("br",{})," everyday.",i.jsx("span",{})]}),i.jsx("p",{children:"Hello, I'm a Software Engineer."})]}),i.jsx(l,{children:i.jsx("img",{src:"/assets/images/officeStyle/hero.jpg",alt:"hero"})})]}),s=a(p)`
+import{j as i,u as a,d as e,h as o}from"./index-wjvI8sSN.js";import{m as n,E as p}from"./common-ByeFN0Oa.js";const c=()=>i.jsxs(s,{name:n.home,children:[i.jsxs(m,{children:[i.jsxs("h1",{children:["I learn ",i.jsx("br",{})," everyday.",i.jsx("span",{})]}),i.jsx("p",{children:"Hello, I'm a Software Engineer."})]}),i.jsx(l,{children:i.jsx("img",{src:"/assets/images/officeStyle/hero.jpg",alt:"hero"})})]}),s=a(p)`
   display: flex;
   justify-content: space-around;
   align-items: center;
