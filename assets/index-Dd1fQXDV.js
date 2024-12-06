@@ -1,6 +1,6 @@
 function __vite__mapDeps(indexes) {
   if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["assets/Navbar-C_6b8ll7.js","assets/common-ByeFN0Oa.js","assets/Hero-Bkxvqoi7.js","assets/About-Chamo04f.js","assets/Work-DLVVfqd2.js","assets/Contact-DDK-Nm9g.js"]
+    __vite__mapDeps.viteFileDeps = ["assets/Navbar-CMA1MaBm.js","assets/common-WKnLL-mA.js","assets/Hero-BuL9BO1_.js","assets/About-B2Q3bHgJ.js","assets/Work-ee301Qim.js","assets/Contact-DeR6qjof.js"]
   }
   return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
 }
@@ -126,7 +126,7 @@ Error generating stack: `+o.message+`
   align-items: center;
   justify-content: center;
   margin-top: 64px;
-`,Qm=Me.lazy(()=>Ur(()=>import("./Navbar-C_6b8ll7.js"),__vite__mapDeps([0,1]))),Km=Me.lazy(()=>Ur(()=>import("./Hero-Bkxvqoi7.js"),__vite__mapDeps([2,1]))),Ym=Me.lazy(()=>Ur(()=>import("./About-Chamo04f.js"),__vite__mapDeps([3,1]))),Gm=Me.lazy(()=>Ur(()=>import("./Work-DLVVfqd2.js"),__vite__mapDeps([4,1]))),Xm=Me.lazy(()=>Ur(()=>import("./Contact-DDK-Nm9g.js"),__vite__mapDeps([5,1]))),Zm=()=>le.jsx(Me.Suspense,{fallback:le.jsx(Am,{}),children:le.jsxs(Dm,{theme:tt,children:[le.jsx(Jm,{}),le.jsx(Qm,{}),le.jsxs(qm,{children:[le.jsx(Km,{}),le.jsx(Ym,{}),le.jsx(Gm,{}),le.jsx(Xm,{})]}),le.jsx(Wm,{})]})}),Jm=Fm`
+`,Qm=Me.lazy(()=>Ur(()=>import("./Navbar-CMA1MaBm.js"),__vite__mapDeps([0,1]))),Km=Me.lazy(()=>Ur(()=>import("./Hero-BuL9BO1_.js"),__vite__mapDeps([2,1]))),Ym=Me.lazy(()=>Ur(()=>import("./About-B2Q3bHgJ.js"),__vite__mapDeps([3,1]))),Gm=Me.lazy(()=>Ur(()=>import("./Work-ee301Qim.js"),__vite__mapDeps([4,1]))),Xm=Me.lazy(()=>Ur(()=>import("./Contact-DeR6qjof.js"),__vite__mapDeps([5,1]))),Zm=()=>le.jsx(Me.Suspense,{fallback:le.jsx(Am,{}),children:le.jsxs(Dm,{theme:tt,children:[le.jsx(Jm,{}),le.jsx(Qm,{}),le.jsxs(qm,{children:[le.jsx(Km,{}),le.jsx(Ym,{}),le.jsx(Gm,{}),le.jsx(Xm,{})]}),le.jsx(Wm,{})]})}),Jm=Fm`
   body {
     font-family: ${({theme:e})=>e.fontFamily};
     line-height: 1.7;

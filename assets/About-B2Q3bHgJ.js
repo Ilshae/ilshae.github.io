@@ -1,4 +1,4 @@
-import{u as a,d as s,j as t,H as x,a as m}from"./index-wjvI8sSN.js";import{m as h,E as d}from"./common-ByeFN0Oa.js";const f=({title:e,href:i,imageUrl:r,color:l,outsideLink:o=!0})=>t.jsxs(u,{$color:l,href:i,target:"_blank",rel:o?"noopener noreferrer":"noreferrer",children:[t.jsx("p",{children:e}),t.jsx("img",{src:r,alt:e})]}),u=a.a`
+import{u as a,d as s,j as t,H as x,a as m}from"./index-Dd1fQXDV.js";import{m as h,E as d}from"./common-WKnLL-mA.js";const f=({title:e,href:i,imageUrl:r,color:l,outsideLink:o=!0})=>t.jsxs(u,{$color:l,href:i,target:"_blank",rel:o?"noopener noreferrer":"noreferrer",children:[t.jsx("p",{children:e}),t.jsx("img",{src:r,alt:e})]}),u=a.a`
   padding: 8px;
   border-radius: 5px;
   transition: all 0.3s;
